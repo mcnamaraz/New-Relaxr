@@ -39,7 +39,7 @@ a {
 
 header {  
  max-width: 1030px;
- background-color: blue;
+ background-color: #033048;
 
 }
 
@@ -63,14 +63,6 @@ footer {
 
 }
 
-.readmore {
-  color: black;
-  font-size: 20px;
-  align: right;
-  text-decoration: underline;
-
-
-}
 
 .navigation {
   display: inline-block;
@@ -125,8 +117,7 @@ footer {
 
 .rowingimage {
   text-align: left;
-  height: auto;
-  width: auto;
+  width: 100%
 }
 
 
@@ -141,6 +132,15 @@ footer {
 
 }
 
+
+.readmore {
+  color: black;
+  font-size: 20px;
+  align: right;
+  text-decoration: underline;
+
+}
+
 .aside {
   width: 200px;
   padding-right: 50px;
@@ -152,7 +152,7 @@ footer {
 
 .buttondiv {
   background-color: #f9e42e;
-  height: 15%;
+  height: 75px%;
   text-align: center;
   padding-top: 5px;
   padding-bottom: 5px;
