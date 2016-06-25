@@ -7,7 +7,7 @@ body {
   color: black;
   line-height: 1.4;
   font-family: 'Open Sans', sans-serif;
-  background-color: #033048;
+  background-color: #f2f6f5;
   
 }
 
@@ -15,9 +15,10 @@ body {
 p {
 
   color: black;
-  background-color: white;
+  background-color: #f2f6f5;
   font-size: 16px;
   font-weight: normal;
+  padding-right: 15px;
 
 
 }
@@ -30,12 +31,15 @@ a {
   text-align: right;
   font-size: 16px;
   padding-right: 20px;
+  padding-bottom: 10px;
   text-decoration: none;
 
 }
 
 
 header {  
+ max-width: 1030px;
+ background-color: blue;
 
 }
 
@@ -44,12 +48,9 @@ footer {
 
   color: white;
   font-style: normal;
-  font-size: 12px;
-  height: 80px;
-  padding-top: 5%;
-  padding-left: 25%;
-  padding-right:25%;
-  background-color: #033048;*/
+  font-size: 10px;
+  height: 300px;
+  background-color: black;
 
 }
 
@@ -64,8 +65,9 @@ footer {
 
 .readmore {
   color: black;
-  font-size: 30px;
-  padding-left: 400px;
+  font-size: 20px;
+  align: right;
+  text-decoration: underline;
 
 
 }
@@ -88,10 +90,9 @@ footer {
 }
 
 .mainbody {
-  background-color: white;
+  background-color: #f2f6f5;
   padding-left: 50px;
   padding-bottom: 50px;
-  width: 600px;
 
 
 }
@@ -102,14 +103,14 @@ footer {
   color: black;
   display: inline-block;
   padding-left: 50px;
-  width: 200px;
+  width: 700px;
 
 }
 
 .header {
   font-size: 30px;
   font-weight: 300;
-  background-color: white;
+  background-color: #f2f6f5;
   text-align: left;
   color: #033048;
   margin-top: 15px;
@@ -119,6 +120,7 @@ footer {
 .article {
   padding-right: 20px;
   max-width: 700px;
+  padding-bottom: 15px;
 } 
 
 .rowingimage {
@@ -141,9 +143,39 @@ footer {
 
 .aside {
   width: 200px;
-  background-color: white;
   padding-right: 50px;
+  padding-left: 10px;
   color: #033048;
+  background-color: #f2f6f5;
+
+}
+
+.buttondiv {
+  background-color: #f9e42e;
+  height: 15%;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+.button {
+  vertical-align: center;
+  background-color: #033048;
+  height: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-left: 60px;
+  padding-right:60px;
+  padding-bottom: 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+  font-style: normal;
+  border: #033048;
+  border-radius: 7px;
+  color: white;
 
 }
 
@@ -152,6 +184,7 @@ footer {
   margin-right: auto;
   display: inline-block;
   text-align: center;
+  background-color: black;
 
 
 }
@@ -162,12 +195,14 @@ footer {
   font-size: 50px;
   font-weight: bold;
   font-style: normal;
-  background-color: #033048;
+  background-color: black;
+  padding-top: 10px;
+  margin-top: 0px;
 
 }
 
 .social {
-  background-color: #033048;
+  background-color: black;
   text-align: center;
 
 }
@@ -179,12 +214,10 @@ footer {
 }
 
 .copywrite {
-  font-size: 9px;
-  font-style: normal;
-  text-transform: uppercase;
+  padding-top: 50px;
+  font-size: 8px;
   letter-spacing: 2px;
   text-align: center;
-  background-color: #033048;
 
 }
 
