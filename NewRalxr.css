@@ -1,0 +1,191 @@
+html {
+
+}
+
+body {
+
+  color: black;
+  line-height: 1.4;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #033048;
+  
+}
+
+
+p {
+
+  color: black;
+  background-color: white;
+  font-size: 16px;
+  font-weight: normal;
+
+
+}
+
+
+
+a {
+
+  color: yellow;
+  text-align: right;
+  font-size: 16px;
+  padding-right: 20px;
+  text-decoration: none;
+
+}
+
+
+header {  
+
+}
+
+
+footer {
+
+  color: white;
+  font-style: normal;
+  font-size: 12px;
+  height: 80px;
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-right:25%;
+  background-color: #033048;*/
+
+}
+
+
+.logo {
+
+  display: inline-block;
+  padding-left: 50px;
+  color: white;
+
+}
+
+.readmore {
+  color: black;
+  font-size: 30px;
+  padding-left: 400px;
+
+
+}
+
+.navigation {
+  display: inline-block;
+  color: #f9e42e;
+  font-size: 12px;
+  float: right;
+  margin-top: 40px;
+
+}
+
+.dropcap {
+  font-size: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 50px;
+
+}
+
+.mainbody {
+  background-color: white;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  width: 600px;
+
+
+}
+
+.mainarticle {
+  background: white;
+  text-align: left;
+  color: black;
+  display: inline-block;
+  padding-left: 50px;
+  width: 200px;
+
+}
+
+.header {
+  font-size: 30px;
+  font-weight: 300;
+  background-color: white;
+  text-align: left;
+  color: #033048;
+  margin-top: 15px;
+
+}
+
+.article {
+  padding-right: 20px;
+  max-width: 700px;
+} 
+
+.rowingimage {
+  text-align: left;
+  height: auto;
+  width: auto;
+}
+
+
+.boat {
+  background-color: white;
+
+}
+
+.columns {
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+
+.aside {
+  width: 200px;
+  background-color: white;
+  padding-right: 50px;
+  color: #033048;
+
+}
+
+.socialimages {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  text-align: center;
+
+
+}
+
+.relaxr2  {
+  text-align: center;
+  color:#f9e42e;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #033048;
+
+}
+
+.social {
+  background-color: #033048;
+  text-align: center;
+
+}
+
+.socialimages {
+
+  padding-right: 20px;
+
+}
+
+.copywrite {
+  font-size: 9px;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  background-color: #033048;
+
+}
+
+
